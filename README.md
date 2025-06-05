@@ -7,7 +7,7 @@ Click here to view live.
 
 ## 🚀 Features
 🧾 **Product listing** according to Categories.
-🛒 **Add to cart** your Favourite Product.
+🛒 **Add to cart / wishlist** your Favourite Product.
 👤 **User authentication** (Login/Signup)
 🔄 **Responsive design** for mobile and desktop
 
